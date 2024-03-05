@@ -1,0 +1,8 @@
+spec: v0.6
+
+name: micropython
+
+unikraft: stable
+
+targets:
+- qemu/x86_64
